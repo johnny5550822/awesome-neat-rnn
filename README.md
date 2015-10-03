@@ -11,12 +11,21 @@ Please submit pull requests! For any questions, contact me (johnny5550822@g.ucla
 # Additional resources
 You can also find good staffs in [awesome-rnn] (https://github.com/kjw0612/awesome-rnn). 
 
+# Table of Content
+- [Review] (#review) 
+- [Tutorial] (#tutorial)
+- [Translation](#translation)
+- [Image Generation](#image-generation)
+- [Hand-writing](#hand-writing)
+- [Text Generation](#text-generation)
+- [Cell Type](#cell-type)
+- [Other](#other)
+
 ## Review
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
 
-## Tutorials
+## Tutorial
 + 2003 A tutorial on training recurrent neural networks, covering BPPT, RTRL, EKF and the "echo state network" approach [[link](http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)]
-
 
 ## Translation
 + 2014 Sequence to Sequence Learning with Neural Networks, NIPS [[paper](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks)]
@@ -24,7 +33,7 @@ You can also find good staffs in [awesome-rnn] (https://github.com/kjw0612/aweso
 + 2014 Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation, arXiv [[paper](http://arxiv.org/abs/1406.1078)]
 + 2013 Recurrent Continuous Translation Models, EMNLP [[paper](http://nal.co/papers/KalchbrennerBlunsom_EMNLP13)]
 
-## Visual Application
+## Image Generation
 + 2015 DRAW: A Recurrent Neural Network For Image Generation, arXiv [[paper](http://arxiv.org/abs/1502.04623]
 + 2015 Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation, arXiv [[paper](http://arxiv.org/abs/1506.03500)]
 + 2015 Generative Image Modeling Using Spatial LSTMs, arXiv [[paper](http://arxiv.org/abs/1506.03478)]
@@ -37,7 +46,7 @@ You can also find good staffs in [awesome-rnn] (https://github.com/kjw0612/aweso
 ## Text Generation
 + 2011 Generating Text with Recurrent Neural Networks, ICML [[paper](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Sutskever_524.pdf)]
 
-## Recurrent Neural Network Cell Gate
+## Cell Type
 + 2014 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, arXiv [[paper](http://arxiv.org/abs/1412.3555)]
 + 1997 Long Short-Term Memory, Neural Computation [[paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6795963)]
 
