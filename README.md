@@ -6,7 +6,7 @@ Omit the long author lists; start with year, followed by title, jounral, and lin
 Maintainer: [Johnny Ho] (https://github.com/johnny5550822)
 
 # Contributions
-Please submit pull requests! For any questions, contact me (johnny5550822@g.ucla.edu)
+I dedice to make this repository public because I want to share what I have found for recurrent neural network. I hope everyone can contribue to it and make it better! So, please submit pull requests! For any questions, contact me (johnny5550822@g.ucla.edu)
 
 # Additional resources
 You can also find good staffs in [awesome-rnn] (https://github.com/kjw0612/awesome-rnn). 
