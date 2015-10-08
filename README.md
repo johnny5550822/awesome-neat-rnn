@@ -12,6 +12,7 @@ I dedice to make this repository public because I want to share what I have foun
 You can also find good staffs in [awesome-rnn] (https://github.com/kjw0612/awesome-rnn). 
 
 # Table of Content
+- [Software] (#software)
 - [Review] (#review) 
 - [Tutorial] (#tutorial)
 - [Translation](#translation)
@@ -20,6 +21,12 @@ You can also find good staffs in [awesome-rnn] (https://github.com/kjw0612/aweso
 - [Text Generation](#text-generation)
 - [Cell Type](#cell-type)
 - [Other](#other)
+
+## Software
++ python, [[neon](https://github.com/NervanaSystems/neon)]
++ python, [[chainer](https://github.com/pfnet/chainer)]
++ torch, [[oxnn](https://github.com/tkocisky/oxnn)]
++ torch, [[Element-research](https://github.com/Element-Research/rnn)]
 
 ## Review
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
