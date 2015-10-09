@@ -36,7 +36,7 @@ This repository is created in order to follow my choice of neatness and interest
 + 2003 A tutorial on training recurrent neural networks, covering BPPT, RTRL, EKF and the "echo state network" approach [[link](http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)]
 
 ## Language Modeling
-+ 2015 Character-Aware Neural Language Models [[paper](http://arxiv.org/pdf/1508.06615v2.pdf)]
++ 2015 Character-Aware Neural Language Models, arXiv [[paper](http://arxiv.org/pdf/1508.06615v2.pdf)]
 
 ## Translation
 + 2014 Sequence to Sequence Learning with Neural Networks, NIPS [[paper](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks)]
