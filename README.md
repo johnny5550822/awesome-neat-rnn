@@ -15,6 +15,7 @@ This repository is created in order to follow my choice of neatness and interest
 - [Software] (#software)
 - [Review] (#review) 
 - [Tutorial] (#tutorial)
+- [Language modeling] (#language-modeling)
 - [Translation](#translation)
 - [Image Generation](#image-generation)
 - [Hand-writing](#hand-writing)
