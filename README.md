@@ -12,7 +12,8 @@ This repository originally is decided for to keep track of what I come across ab
 This repository is created in order to follow my choice of neatness and interest. There is another repository that also provide excellent (with full author lists, etc) sources for recurrent neural network, please visit [awesome-rnn] (https://github.com/kjw0612/awesome-rnn). 
 
 # Table of Content
-- [Software] (#software)
+- [Software Package] (#software-package)
+- [Sample Codes] (#sample-codes)
 - [Review] (#review) 
 - [Tutorial] (#tutorial)
 - [Language modeling] (#language-modeling)
@@ -23,11 +24,16 @@ This repository is created in order to follow my choice of neatness and interest
 - [Cell Type](#cell-type)
 - [Other](#other)
 
-## Software
+## Software Package
 + python, [[neon](https://github.com/NervanaSystems/neon)]
 + python, [[chainer](https://github.com/pfnet/chainer)]
 + torch, [[oxnn](https://github.com/tkocisky/oxnn)]
 + torch, [[Element-research](https://github.com/Element-Research/rnn)]
+
+## Sample Codes
++ torch, [[char-rnn](https://github.com/karpathy/char-rnn)]
++ torch, [[learning_to_execute](https://github.com/wojciechz/learning_to_execute)]
++ torch, [[Oxford practical 6](https://github.com/oxford-cs-ml-2015/practical6)]
 
 ## Review
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
