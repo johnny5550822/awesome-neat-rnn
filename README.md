@@ -36,6 +36,7 @@ This repository is created in order to follow my choice of neatness and interest
 + torch, [[learning_to_execute](https://github.com/wojciechz/learning_to_execute)]
 + torch, [[Oxford practical 6](https://github.com/oxford-cs-ml-2015/practical6)]
 + torch, [[torch7 examples](https://github.com/torch/demos/tree/master/train-a-digit-classifier)], have a lot of good examples
++ torch, [[UCLA IPAM course on torch7](http://code.madbits.com/wiki/doku.php?id=start)]
 
 ## Review
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
