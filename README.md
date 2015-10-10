@@ -29,7 +29,7 @@ This repository is created in order to follow my choice of neatness and interest
 + python, [[chainer](https://github.com/pfnet/chainer)]
 + torch, [[oxnn](https://github.com/tkocisky/oxnn)]
 + torch, [[Element-research](https://github.com/Element-Research/rnn)]
-+ torch, [[dp](https://github.com/nicholas-leonard/dp)], a torch deep learning library. You can find, for example, CNN implementation there
++ torch, [[dp](https://github.com/nicholas-leonard/dp)], a torch deep learning library. I think the example folder is the most useful, for example, CNN implementation there
 
 ## Sample Codes
 + torch, [[char-rnn](https://github.com/karpathy/char-rnn)]
