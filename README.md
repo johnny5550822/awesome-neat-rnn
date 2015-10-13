@@ -41,6 +41,8 @@ This repository is created in order to follow my choice of neatness and interest
   + torch, [[UCLA IPAM course on torch7](http://code.madbits.com/wiki/doku.php?id=start)]
   + torch, [[A simplified example on CNN](https://github.com/hpenedones/luacnn)]
   + torch, [[Kaggle CIFAR-10](https://github.com/nagadomi/kaggle-cifar10-torch7/)], codes for Kaggle CIFAR-10 competition (CNN)
++ Lua In general
+  + Lua, [[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)]
 
 ## Review
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
