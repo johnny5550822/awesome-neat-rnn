@@ -48,6 +48,8 @@ This repository is created in order to follow my choice of neatness and interest
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
 
 ## Tutorial
++ 2015, Recurrent Neural Networks Tutorial [[link](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)]
++ 2015, understanding LSTM [[links](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
 + 2003 A tutorial on training recurrent neural networks, covering BPPT, RTRL, EKF and the "echo state network" approach [[link](http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)]
 
 ## Language Modeling
