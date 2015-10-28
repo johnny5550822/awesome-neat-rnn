@@ -37,7 +37,8 @@ This repository is created in order to follow my choice of neatness and interest
 + torch, [[learning_to_execute](https://github.com/wojciechz/learning_to_execute)]
 + torch, [[Oxford practical 6](https://github.com/oxford-cs-ml-2015/practical6)]
 + Deep Learing in general
-  + torch, [[torch7 examples](https://github.com/torch/demos/tree/master/train-a-digit-classifier)], have a lot of good examples
+  + torch, [[torch7 official tutorials](https://github.com/torch/tutorials)]
+  + torch, [[torch7 official demos](https://github.com/torch/demos)], have a lot of good examples
   + torch, [[UCLA IPAM course on torch7](http://code.madbits.com/wiki/doku.php?id=start)]
   + torch, [[A simplified example on CNN](https://github.com/hpenedones/luacnn)]
   + torch, [[Kaggle CIFAR-10](https://github.com/nagadomi/kaggle-cifar10-torch7/)], codes for Kaggle CIFAR-10 competition (CNN)
