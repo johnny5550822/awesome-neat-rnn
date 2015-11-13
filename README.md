@@ -51,6 +51,7 @@ This repository is created in order to follow preciseness and neatness. There is
 + Up-to-date DL news [[notey](http://www.notey.com/blogs/deep-learning)]
 + torch, [[torch7 blogs (some cool explanation and codes)](http://torch.ch/blog/index.html)]
 + What does DL think about your selfie? [[blog](http://karpathy.github.io/2015/10/25/selfie/)]
++ The Unreasonable Effectiveness of Recurrent Neural Networks. [[blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
 
 ## Review
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
