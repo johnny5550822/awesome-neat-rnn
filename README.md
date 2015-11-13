@@ -14,6 +14,7 @@ This repository is created in order to follow preciseness and neatness. There is
 # Table of Content
 - [Software Package] (#software-package)
 - [Sample Codes] (#sample-codes)
+- [Blogs] (#blogs)
 - [Review] (#review) 
 - [Tutorial] (#tutorial)
 - [Language modeling] (#language-modeling)
@@ -43,9 +44,13 @@ This repository is created in order to follow preciseness and neatness. There is
   + torch, [[UCLA IPAM course on torch7](http://code.madbits.com/wiki/doku.php?id=start)]
   + torch, [[A simplified example on CNN](https://github.com/hpenedones/luacnn)]
   + torch, [[Kaggle CIFAR-10](https://github.com/nagadomi/kaggle-cifar10-torch7/)], codes for Kaggle CIFAR-10 competition (CNN)
-  + torch, [[torch7 blogs (some cool explanation and codes)](http://torch.ch/blog/index.html)]
 + Lua In general
   + Lua, [[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)]
+
+## Blogs
++ Up-to-date DL news [[notey](http://www.notey.com/blogs/deep-learning)]
++ torch, [[torch7 blogs (some cool explanation and codes)](http://torch.ch/blog/index.html)]
++ What does DL think about your selfie? [[blog](http://karpathy.github.io/2015/10/25/selfie/)]
 
 ## Review
 + 2015 Deep Learning, Nature [[paper](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)]
