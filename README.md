@@ -38,6 +38,7 @@ This repository is created in order to follow preciseness and neatness. There is
 + torch, [[char-rnn](https://github.com/karpathy/char-rnn)]
 + torch, [[learning_to_execute](https://github.com/wojciechz/learning_to_execute)]
 + torch, [[Oxford practical 6](https://github.com/oxford-cs-ml-2015/practical6)]
++ torch, [[Spatial Transformer Layer](https://github.com/moodstocks/gtsrb.torch)]
 + Deep Learing in general
   + torch, [[torch7 official tutorials](https://github.com/torch/tutorials)]
   + torch, [[torch7 official demos](https://github.com/torch/demos)], have a lot of good examples
