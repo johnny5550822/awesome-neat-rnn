@@ -86,8 +86,9 @@ This repository is created in order to follow my choice of neatness and interest
 + 1997 Long Short-Term Memory, Neural Computation [[paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6795963)]
 
 ## Other
-+ CNN-something cool and worth to share here
++ CNN: something cool and worth to share here
   + 2015 Spatial Transformer Networks, NIPS [[paper](http://arxiv.org/pdf/1506.02025.pdf)]
+  + 2015 Human-level control through deep reinforcement learning, Nature [[(http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]]
 + 2007 Multi-Dimensional Recurrent Neural Networks [[paper](http://people.idsia.ch/~juergen/icann_2007.pdf)]
 
 
