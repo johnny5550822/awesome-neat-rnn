@@ -48,8 +48,8 @@ This repository is created in order to follow preciseness and neatness. There is
   + Lua, [[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)]
 
 ## Blogs
-+ Up-to-date DL news [[notey](http://www.notey.com/blogs/deep-learning)]
-+ torch, [[torch7 blogs (some cool explanation and codes)](http://torch.ch/blog/index.html)]
++ torch7 blogs (some cool explanation and codes), [[blog](http://torch.ch/blog/index.html)]
++ Up-to-date DL news from notey [[blog](http://www.notey.com/blogs/deep-learning)]
 + What does DL think about your selfie? [[blog](http://karpathy.github.io/2015/10/25/selfie/)]
 + The Unreasonable Effectiveness of Recurrent Neural Networks. [[blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
 
