@@ -1,7 +1,7 @@
 # neat-rnn
 This is a precise to-read list for recurrent neural network (RNN). 
 
-Omit the long author lists; start with year, followed by title, jounral, and link. Newer papers go first. There are additional resources such as codes, interesting blog posts, cool articles about CNN, etc.
+Omit the long author lists; start with year, followed by title, jounral, and link. Newer papers go first. There are additional resources such as codes, interesting blog posts, cool articles, etc.
 
 Creator: [Johnny Ho] (https://github.com/johnny5550822)
 
