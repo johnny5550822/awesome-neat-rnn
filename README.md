@@ -21,6 +21,7 @@ This repository is created in order to follow my choice of neatness and interest
 - [Image Generation](#image-generation)
 - [Hand-writing](#hand-writing)
 - [Text Generation](#text-generation)
+- [Questions and Answers] (#questions-and-answers)
 - [Cell Type](#cell-type)
 - [Other](#other)
 
@@ -76,6 +77,9 @@ This repository is created in order to follow my choice of neatness and interest
 
 ## Text Generation
 + 2011 Generating Text with Recurrent Neural Networks, ICML [[paper](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Sutskever_524.pdf)]
+
+## Questions and Answers
++ 2015 Ask Your Neurons: A Neural-based Approach to Answering Questions about Images [[paper](http://arxiv.org/pdf/1505.01121.pdf)]
 
 ## Cell Type
 + 2014 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, arXiv [[paper](http://arxiv.org/abs/1412.3555)]
