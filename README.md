@@ -93,7 +93,7 @@ This repository is created in order to follow preciseness and neatness. There is
 ## Other
 + CNN: something cool and worth to share here
   + 2015 Spatial Transformer Networks, NIPS [[paper](http://arxiv.org/pdf/1506.02025.pdf)]
-  + 2015 Human-level control through deep reinforcement learning, Nature [[(http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]]
+  + 2015 Human-level control through deep reinforcement learning, Nature [[paper](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
 + 2007 Multi-Dimensional Recurrent Neural Networks [[paper](http://people.idsia.ch/~juergen/icann_2007.pdf)]
 
 
