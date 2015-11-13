@@ -80,6 +80,11 @@ This repository is created in order to follow my choice of neatness and interest
 
 ## Questions and Answers
 + 2015 Ask Your Neurons: A Neural-based Approach to Answering Questions about Images [[paper](http://arxiv.org/pdf/1505.01121.pdf)]
++ 2015 VQA: Visual Question Answering [[paper](http://arxiv.org/pdf/1505.00468.pdf)]
++ 2015 Exploring Models and Data for Image Question Answering [[paper](http://arxiv.org/pdf/1505.02074.pdf)]
++ 2015 Are you talking to a machine? Dataset and methods for multilingual image question answering [[paper](http://arxiv.org/pdf/1505.05612.pdf)]
++ 2015 Teaching Machines to read and comprehand [[paper](http://arxiv.org/pdf/1506.03340.pdf)]
++ 2015 Ask me anything: dynamic memory networks for natural language processing [[paper](http://arxiv.org/pdf/1506.07285.pdf)]
 
 ## Cell Type
 + 2014 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, arXiv [[paper](http://arxiv.org/abs/1412.3555)]
