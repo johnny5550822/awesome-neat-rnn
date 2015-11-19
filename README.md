@@ -47,6 +47,7 @@ This repository is created in order to follow preciseness and neatness. There is
   + torch, [[Kaggle CIFAR-10](https://github.com/nagadomi/kaggle-cifar10-torch7/)], codes for Kaggle CIFAR-10 competition (CNN)
 + Lua In general
   + Lua, [[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)]
++ GitXiv, summary of recent published git repositoris for research algorithm [[link](http://gitxiv.com/)]
 
 ## Blogs
 + torch7 blogs (some cool explanation and codes), [[blog](http://torch.ch/blog/index.html)]
