@@ -3,7 +3,7 @@ This is a precise to-read list for recurrent neural network (RNN).
 
 Omit the long author lists; start with year, followed by title, jounral, and link. Newer papers go first. There are additional resources such as codes, interesting blog posts, cool articles, etc.
 
-Creator: [Johnny Ho] (https://github.com/johnny5550822)
+Maintainer: [Johnny Ho] (https://github.com/johnny5550822)
 
 # Contributions
 This repository originally is decided for to keep track of what I come across about recurrent neural network. But, I guess I will get more benifit (as well as you) if I publicize it . I hope everyone can contribue to it and make it better! So, please submit pull requests! For any questions, contact me (johnny5550822@g.ucla.edu)
