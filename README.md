@@ -64,6 +64,7 @@ This repository is created in order to follow preciseness and neatness. There is
 + 2003 A tutorial on training recurrent neural networks, covering BPPT, RTRL, EKF and the "echo state network" approach [[link](http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf)]
 
 ## Language Modeling
++ 2016 Long Short-Term Memory-Networks for Machine Reading, arXiv [[paper](http://arxiv.org/pdf/1601.06733v3.pdf)]
 + 2015 Teaching Machines to Read and Comprehend, NIPS [[paper](http://arxiv.org/pdf/1506.03340v1.pdf)]
 + 2015 Character-Aware Neural Language Models, arXiv [[paper](http://arxiv.org/pdf/1508.06615v2.pdf)]
 
