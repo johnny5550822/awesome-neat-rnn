@@ -99,6 +99,10 @@ This repository is created in order to follow preciseness and neatness. There is
 + 2014 Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, arXiv [[paper](http://arxiv.org/abs/1412.3555)]
 + 1997 Long Short-Term Memory, Neural Computation [[paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6795963)]
 
+
+## Regularization
++ 2016 Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations, arXiv [[paper](https://arxiv.org/pdf/1606.01305v1.pdf)]
+
 ## Other
 + Hyperparameters Optimization
   + 2015 Gradient-based Hyperparameter Optimization through Reversible Learning, Arxiv [[paper](http://arxiv.org/abs/1502.03492)] 
